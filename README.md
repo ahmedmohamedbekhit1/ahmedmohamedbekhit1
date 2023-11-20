@@ -30,7 +30,7 @@ Let's connect and build something secure together!</p>
   
 [![My Contribution](https://github-readme-stats.vercel.app/api?username=AhmedMohamedBekhit1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/AhmedMohamedBekhit1/AhmedMohamedBekhit)  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohamedBekhit1&layout=compact&langs_count=8&theme=algolia)](https://github.com/AhmedMohamedBekhit1/AhmedMohamedBekhit)
+[![Langs](https://github-readme-stats.vercel.app/api/langs/?username=AhmedMohamedBekhit1&layout=compact&langs_count=8&theme=algolia)](https://github.com/AhmedMohamedBekhit1/AhmedMohamedBekhit)
 
 - 🔭 I’m currently working on java project and web project
 - 🌱 I’m currently learning sql and Cybersecurity
