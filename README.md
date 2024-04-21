@@ -25,5 +25,5 @@ Let's connect and build something secure together!</p>
  
 </p>
 
-- 🔭 I’m currently working on java project and web project
-- 🌱 I’m currently learning sql and Cybersecurity
+- 🔭 I’m currently working on  web project
+- 🌱 I’m currently learning Cybersecurity
