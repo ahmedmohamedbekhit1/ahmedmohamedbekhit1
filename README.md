@@ -1,6 +1,6 @@
 <h2> Hi there, I'm AhmedMohamedBekhit👾 </h2>
 <p>Passionate Cybersecurity student at National Alex University, focused on becoming a skilled backend engineer. Proficient in Java and experienced in building software projects using Java, Java OOP, and Java Swing. 
-Additionally, I have beginner-level knowledge in Python, C, and C++.
+Additionally, I have  knowledge in Python, C, and C++.
 Currently expanding my skills in cybersecurity and working towards securing digital assets.
 Seeking opportunities to contribute to open-source projects and collaborate with like-minded professionals. Always exploring new ways to enhance security and efficiency in software development.
 Let's connect and build something secure together!</p>
