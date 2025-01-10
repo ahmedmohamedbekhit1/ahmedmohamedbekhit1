@@ -27,4 +27,3 @@ Let's connect and build something secure together!</p>
 
 - 🔭 I’m currently working on  web project
 - 🌱 I’m currently learning Cybersecurity
-https://us05web.zoom.us/j/3585059053?pwd=WbZLkBbK0qaik7vBFq2HrrN7yaZOvG.1
